@@ -20,4 +20,4 @@ So I created my own solution using applescript. **When I switch between two wind
 
 * Give the application **assitive access**, in the System Preference.
 
-
+* This applescript solution is doing active polling under the hood, so it isn't super efficient. It uses about 5% of one of my 4 cores (actually 2 hardware cores with hyperthreading).
